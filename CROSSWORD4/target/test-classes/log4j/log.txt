@@ -1,0 +1,5 @@
+11/04/2020 15:29:57 devpinoyLogger Browser is opened and login successfully in website
+11/04/2020 15:29:59 devpinoyLogger Clicked customercare button
+11/04/2020 15:29:59 devpinoyLogger Selected order related query button
+11/04/2020 15:30:00 devpinoyLogger Orderid, email, number and query are typed
+11/04/2020 15:30:00 devpinoyLogger next button id clicked

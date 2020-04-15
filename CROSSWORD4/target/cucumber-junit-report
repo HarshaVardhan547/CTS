@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="crossword website" name="Logging out from the website" time="0">
+<skipped><![CDATA[Given I want to launch the website page "<uname>" and "<pwd>"...............undefined
+When Homepage is launched...................................................skipped
+And I click on logout button................................................skipped
+Then I receive feedback that I am logged out................................skipped
+]]></skipped>
+</testcase>
+</testsuite>

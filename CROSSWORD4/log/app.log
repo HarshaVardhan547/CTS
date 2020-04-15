@@ -1,0 +1,5 @@
+2020-04-11 12:09:24.280 INFO [main] [com.pages.LoginCrossWord] [i_want_to_launch_website_home_page] [com.stepdefination.CustomerCareStepDef.i_want_to_launch_website_home_page(CustomerCareStepDef.java:33)] - Browser is opened and login successfully in website
+2020-04-11 12:09:28.687 INFO [main] [com.pages.LoginCrossWord] [i_click_on_coustomercare] [com.stepdefination.CustomerCareStepDef.i_click_on_coustomercare(CustomerCareStepDef.java:42)] - Clicked customercare button
+2020-04-11 12:09:28.800 INFO [main] [com.pages.LoginCrossWord] [i_click_on_order_related_query] [com.stepdefination.CustomerCareStepDef.i_click_on_order_related_query(CustomerCareStepDef.java:50)] - Selected order related query button
+2020-04-11 12:09:29.360 INFO [main] [com.pages.LoginCrossWord] [i_enter_orderid_email_phone_and_query] [com.stepdefination.CustomerCareStepDef.i_enter_orderid_email_phone_and_query(CustomerCareStepDef.java:61)] - Orderid, email, number and query are typed
+2020-04-11 12:09:29.427 INFO [main] [com.pages.LoginCrossWord] [i_click_on_next_button] [com.stepdefination.CustomerCareStepDef.i_click_on_next_button(CustomerCareStepDef.java:70)] - next button id clicked
