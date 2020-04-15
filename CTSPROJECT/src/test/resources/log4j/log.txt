@@ -1,0 +1,19 @@
+15/04/2020 16:35:41 devpinoyLogger Browser is opened and login successfully in website
+15/04/2020 16:35:58 devpinoyLogger Clicked customercare button
+15/04/2020 16:35:59 devpinoyLogger Selected order related query button
+15/04/2020 16:35:59 devpinoyLogger Orderid, email, number and query are typed
+15/04/2020 16:35:59 devpinoyLogger next button id clicked
+15/04/2020 16:37:43 devpinoyLogger Browser is opened and login successfully in website
+15/04/2020 16:37:50 devpinoyLogger Clicked customercare button
+15/04/2020 16:37:51 devpinoyLogger Selected order related query button
+15/04/2020 16:37:52 devpinoyLogger Orderid, email, number and query are typed
+15/04/2020 16:37:52 devpinoyLogger next button id clicked
+15/04/2020 16:39:43 devpinoyLogger Browser is opened and login successfully in website
+15/04/2020 16:40:29 devpinoyLogger login page is opened
+15/04/2020 16:40:33 devpinoyLogger book page is cliked
+15/04/2020 16:41:24 devpinoyLogger login page is opened
+15/04/2020 16:41:29 devpinoyLogger mycart is clicked
+15/04/2020 16:41:38 devpinoyLogger continue shopping clicked
+15/04/2020 16:42:35 devpinoyLogger loginpage is opened
+15/04/2020 16:42:42 devpinoyLogger Help button clicked
+15/04/2020 16:42:43 devpinoyLogger faqs have clicked
